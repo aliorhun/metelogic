@@ -1,0 +1,8 @@
+{
+  "appId": "com.alorak.metelogicapp",
+  "appName": "MeteLogicApp",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
